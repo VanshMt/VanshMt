@@ -1,7 +1,8 @@
 ![logo](https://github.com/VanshMt/VanshMt/blob/main/github-header-image.png)
 <h3 align="center">A passionate upcoming developer from India</h3>
-<img align="right" width="500" src="giphy.gif">
-- 👨‍💻 All of my info are available at [https://vanshmt.github.io/Intro/](https://vanshmt.github.io/Intro/)
+- 👨‍💻All of my info are available at (https://vanshmt.github.io/Intro/)
+<img align="right" width="400" src="giphy.gif">
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
