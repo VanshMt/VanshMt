@@ -1,6 +1,6 @@
 ![logo](https://github.com/VanshMt/VanshMt/blob/main/github-header-image.png)
 <h3 align="center">A passionate upcoming developer from India</h3>
-<img href="https://vanshmt.github.io/Intro/" align="left" width="100" heigh="50" src="https://images.unsplash.com/photo-1575936123452-b67c3203c357?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D">
+<a href="https://vanshmt.github.io/Intro/"><img align="left" width="100" heigh="50" src="https://images.unsplash.com/photo-1575936123452-b67c3203c357?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D"></a>
 <img align="right" width="400" src="giphy.gif">
 
 
