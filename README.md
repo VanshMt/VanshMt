@@ -13,7 +13,7 @@
 - 🌱 I’m learning **AI/ML, Web Development, and Competitive Programming**
 - 💼 I’m working on personal projects and contributing to open source
 - 🌐 Visit my portfolio: [vanshmt.github.io/Intro](https://vanshmt.github.io/Intro/)
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: vanshvmathur@gmail.com
 
 ---
 
@@ -60,10 +60,7 @@
   <a href="https://www.linkedin.com/in/vansh-mathur-ab183121b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/vansh_13_5" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:vanshvmathur@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
@@ -74,9 +71,9 @@
 
 Here are a few projects I’m proud of:
 
-- 🔗 [Project 1](https://github.com/VanshMt/project1): Short description here.
-- 🔗 [Project 2](https://github.com/VanshMt/project2): Short description here.
-
+- 🔗 [Project 1](https://bysolutions.in/)
+- 🔗 [Project 2]([https://github.com/VanshMt/project2](https://vanshmt.github.io/Intro/)): Made this project as an Introduction Website
+- Python Projects Coming soon -
 ---
 
 ### 📝 Latest Blog Posts
